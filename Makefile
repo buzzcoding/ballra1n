@@ -40,5 +40,5 @@ package:
 	@rm -rf packages
 	@mkdir -p packages
 
-	@zip -r9 packages/palera1n.ipa Payload
+	@zip -r9 packages/ballra1n.ipa Payload
 	@rm -rf Payload

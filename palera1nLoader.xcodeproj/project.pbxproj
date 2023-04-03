@@ -23,7 +23,6 @@
 		AAC7DE30291F17DE000CD15B /* AnimatableGradients.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAC7DE2F291F17DE000CD15B /* AnimatableGradients.swift */; };
 		AAC7DE33291F1AED000CD15B /* IrregularGradient in Frameworks */ = {isa = PBXBuildFile; productRef = AAC7DE32291F1AED000CD15B /* IrregularGradient */; };
 		AAC7DE36291F1EBD000CD15B /* SDWebImageSwiftUI in Frameworks */ = {isa = PBXBuildFile; productRef = AAC7DE35291F1EBD000CD15B /* SDWebImageSwiftUI */; };
-		AAD65B0B2932DCC300DF88E6 /* SettingsSheetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAD65B0A2932DCC300DF88E6 /* SettingsSheetView.swift */; };
 		AAD65B0D2932EBF000DF88E6 /* ArgumentParser in Frameworks */ = {isa = PBXBuildFile; productRef = AAD65B0C2932EBF000DF88E6 /* ArgumentParser */; };
 		AAEF9D5C291ED9F90089149B /* palera1nLoaderApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAEF9D5B291ED9F90089149B /* palera1nLoaderApp.swift */; };
 		AAEF9D5E291ED9F90089149B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAEF9D5D291ED9F90089149B /* ContentView.swift */; };
@@ -31,7 +30,6 @@
 		AAEF9D6C291EDD7A0089149B /* ForegroundLinearGradient.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAEF9D6A291EDD7A0089149B /* ForegroundLinearGradient.swift */; };
 		AAEF9D6D291EDD7A0089149B /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAEF9D6B291EDD7A0089149B /* Color.swift */; };
 		AAEF9D71291EDDBB0089149B /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAEF9D70291EDDBB0089149B /* Constants.swift */; };
-		AAEF9D73291EE2860089149B /* Console.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAEF9D72291EE2850089149B /* Console.swift */; };
 		AAEF9D75291EE9370089149B /* SysInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAEF9D74291EE9370089149B /* SysInfo.swift */; };
 		AAEF9D81291EEAC10089149B /* HostManager.c in Sources */ = {isa = PBXBuildFile; fileRef = AAEF9D77291EEAC10089149B /* HostManager.c */; };
 		AAEF9D83291EEAC10089149B /* HostManagerBridge.m in Sources */ = {isa = PBXBuildFile; fileRef = AAEF9D7F291EEAC10089149B /* HostManagerBridge.m */; };
@@ -73,7 +71,6 @@
 		AAC38B5829356A1F00796F04 /* Utilities.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utilities.swift; sourceTree = "<group>"; };
 		AAC7DE2D291F1250000CD15B /* CreditsSheetView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreditsSheetView.swift; sourceTree = "<group>"; };
 		AAC7DE2F291F17DE000CD15B /* AnimatableGradients.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatableGradients.swift; sourceTree = "<group>"; };
-		AAD65B0A2932DCC300DF88E6 /* SettingsSheetView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsSheetView.swift; sourceTree = "<group>"; };
 		AAEF9D58291ED9F80089149B /* palera1nLoader.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = palera1nLoader.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AAEF9D5B291ED9F90089149B /* palera1nLoaderApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = palera1nLoaderApp.swift; sourceTree = "<group>"; };
 		AAEF9D5D291ED9F90089149B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -81,7 +78,6 @@
 		AAEF9D6A291EDD7A0089149B /* ForegroundLinearGradient.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ForegroundLinearGradient.swift; sourceTree = "<group>"; };
 		AAEF9D6B291EDD7A0089149B /* Color.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
 		AAEF9D70291EDDBB0089149B /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
-		AAEF9D72291EE2850089149B /* Console.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Console.swift; sourceTree = "<group>"; };
 		AAEF9D74291EE9370089149B /* SysInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SysInfo.swift; sourceTree = "<group>"; };
 		AAEF9D77291EEAC10089149B /* HostManager.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = HostManager.c; sourceTree = "<group>"; };
 		AAEF9D7A291EEAC10089149B /* CoreFoundation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CoreFoundation.h; sourceTree = "<group>"; };
@@ -166,7 +162,6 @@
 			children = (
 				AAEF9D5D291ED9F90089149B /* ContentView.swift */,
 				AAC7DE2D291F1250000CD15B /* CreditsSheetView.swift */,
-				AAD65B0A2932DCC300DF88E6 /* SettingsSheetView.swift */,
 			);
 			name = Views;
 			sourceTree = "<group>";
@@ -223,7 +218,6 @@
 		AAEF9D6E291EDD980089149B /* Class */ = {
 			isa = PBXGroup;
 			children = (
-				AAEF9D72291EE2850089149B /* Console.swift */,
 				AAC38B5829356A1F00796F04 /* Utilities.swift */,
 			);
 			name = Class;
@@ -409,8 +403,6 @@
 				AAEF9D8C291EEFF00089149B /* ViewFlip.swift in Sources */,
 				AAC38B5929356A1F00796F04 /* Utilities.swift in Sources */,
 				AAC7DE2E291F1250000CD15B /* CreditsSheetView.swift in Sources */,
-				AAEF9D73291EE2860089149B /* Console.swift in Sources */,
-				AAD65B0B2932DCC300DF88E6 /* SettingsSheetView.swift in Sources */,
 				AAEF9D6C291EDD7A0089149B /* ForegroundLinearGradient.swift in Sources */,
 				AAEF9D6D291EDD7A0089149B /* Color.swift in Sources */,
 				AAEF9D5E291ED9F90089149B /* ContentView.swift in Sources */,
@@ -596,13 +588,13 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = palera1nLoader/palera1nLoader.entitlements;
-				CODE_SIGN_STYLE = Automatic;
+				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 566RT33SA2;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = palera1nLoader/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = palera1n;
+				INFOPLIST_KEY_CFBundleDisplayName = ballpa1n;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.developer-tools";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -617,8 +609,9 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.llsc12.palera1nLoader;
+				PRODUCT_BUNDLE_IDENTIFIER = com.llsc12.ballpa1n;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_INCLUDE_PATHS = "$(SRCROOT)/palera1nLoader/External\n$(SRCROOT)/palera1nLoader/External\n";
 				SWIFT_OBJC_BRIDGING_HEADER = "palera1nLoader/Zefram stolen code/bridging or something.h";
@@ -633,13 +626,13 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = palera1nLoader/palera1nLoader.entitlements;
-				CODE_SIGN_STYLE = Automatic;
+				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 566RT33SA2;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = palera1nLoader/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = palera1n;
+				INFOPLIST_KEY_CFBundleDisplayName = ballpa1n;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.developer-tools";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -654,8 +647,9 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.llsc12.palera1nLoader;
+				PRODUCT_BUNDLE_IDENTIFIER = com.llsc12.ballpa1n;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_INCLUDE_PATHS = "$(SRCROOT)/palera1nLoader/External\n$(SRCROOT)/palera1nLoader/External\n";
 				SWIFT_OBJC_BRIDGING_HEADER = "palera1nLoader/Zefram stolen code/bridging or something.h";
