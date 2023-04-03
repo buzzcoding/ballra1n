@@ -11,7 +11,7 @@ This is a fork of the palera1n loader (universal branch) which replaces the UI w
 
 The UI does not reflect what the jailbreak process is doing at the time, as to keep mostly the same look (except that it says real instead of fake at the bottom). Also, on non-checkm8 devices, the app behaves as regular ballpa1n.
 
-[download here](https://github.com/llsc12/ballpa1n/releases/latest)
+[download here](https://github.com/buzzcoding/ballra1n/releases/latest)
 
 ## credits
 Thanks to capt inc for his work on extracting system info with C apis
